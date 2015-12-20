@@ -1,0 +1,68 @@
+/* CSS Document */
+body{ padding:0px; margin:0px;}
+.containerfluid{width:100%; height:auto; }
+.headerpart{width:100%; height:48px;margin-top:25px;}
+.headpart-1{width:20%; height:60px;border:0px solid red;float:left;}
+.headpart-1 h2{ float:left; color:#C200FF; margin-top:11px;margin-left: 98px;}
+.headpart-2{width:50%; height:60px;border:0px solid red;float:left;} 
+.headpart-3{width:25%; height:60px;border:0px solid red;float:left;margin-left: 25px;}  
+ul.navul{ list-style:none;}
+ul.navul li{ display:inline-block;}
+ul.navul li a{ text-decoration:none; padding:15px; background:#DEDEDE; padding-left:40px; padding-right:50px; 
+
+color:#fff; font-size:15px; text-transform:capitalize;}
+ul.navul li a.active{ background:#06C;}
+ul.navul li a:hover{ background:#06C;}
+
+.menu-btn{ text-decoration:none; line-height:45px; padding:10px; background:#48C764; color:#000; padding-left:40px; 
+
+padding-right:40px; border-radius:10px; text-transform:capitalize; font-size:18px; font-weight:bold;}
+.menu-btn1{ text-decoration:none; line-height:66px; padding:15px; clear:both; background:#EC5151; color:#000; 
+
+border-radius:23px; text-transform:capitalize; font-size:17px; font-weight:bold; margin-left:100px; padding-
+
+left:30px; padding-right:30px;}
+.sliderpart{ background:url(../img/flower-background-images-and-wallpapers-16.jpg); width:100%; 
+
+height:600px;background-position: left center; background-size: 100% 100%;}
+.sliderpart-1{ width:64%; float:left;text-align:left;margin-left:50px;color:#fff; text-transform:capitalize;}
+.sliderpart-1 h1{font-size:40px;}
+.sliderpart-1 p{ font-size: 23px;text-align: center;padding-left: 83px;}
+.sliderpart-211{ width: 25%;
+    float: right;
+    text-align: left;
+    /* margin-left: 3px; */
+    margin-right: 53px;
+    }
+.active
+{
+	background-color:#36F !important;
+	
+}
+.sliderpart-2{ 
+    text-align: left;
+    /* margin-left: 3px; */
+    margin-right: 10px;
+    background-color: #FFF;}
+	
+	
+.imgclass{ float:right; margin-right:30px;}
+.contianer{ width:100%; height:auto; margin:0 auto;}
+
+.contentpart-1{text-align:center;margin-top:70px;}
+.contentpart-1 h1{ font-size:30px; }
+.contentpart-1 p{ font-size:17px; font-weight:bold;}
+.contentpartleft{ width:50%; float:left; text-align:center;}
+.contentpartright{ width:50%; float:right; text-align:center;}
+
+.commentimg{float:left;}
+.commnetpart{ float:leftt;}
+
+.footerpart{ width:100%; height:auto; text-align:center;}
+.footerfullblock{ margin-bottom:20px;}
+.footerparts{ width:100%; height:auto;}
+.footerpart-1{ width:24%; float:left; border:0px solid; margin-left:8px;}
+.footerpart-1 h2{ margin-bottom:0px; text-align:left; padding-left:38px;}
+ul.footul{ list-style:none; float:left;} 
+ul.footul li{ list-style:none; font-size:16px; text-align:left; font-weight:bold;}
+.copurl{font-size: 17px;clear: both;font-weight: bold;}
